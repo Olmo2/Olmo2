@@ -32,10 +32,17 @@ My name is Olmo, I am 22 and currently working as a FullStack Developer in Ovied
 
 <p>&nbsp;</p>
 
-## :cyclone: Cool Repos
+## 🌀 Cool Repos
 
 <a href="https://github.com/olmo2/wibby" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olmo2&repo=wibby&theme=chartreuse-dark"></a>
 <a href="https://github.com/olmo2/JuegoDeUr" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olmo2&repo=JuegoDeUr&theme=chartreuse-dark"></a>
 
+<!-- Footer -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=olmo2.olmo2)
+<div align="center">
+<br />
+
+![Visitor Count](https://profile-counter.glitch.me/olmo2/count.svg)
+
+</div>
+
