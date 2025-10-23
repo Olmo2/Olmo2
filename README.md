@@ -1,6 +1,6 @@
 ## Hello there <img src="https://media.giphy.com/media/fXhILxhX297vCayMGF/giphy.gif" width="25px"></a>
 
-My name is Olmo, I am 25 and currently working as a FullStack Developer in Oviedo,Asturias,Spain
+My name is Olmo, I am 26 and currently working as a FullStack Developer in Oviedo,Asturias,Spain
 
 ## 🚀Technologies & 💻Tools
 
