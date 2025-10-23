@@ -42,7 +42,7 @@ My name is Olmo, I am 26 and currently working as a FullStack Developer in Ovied
 <div align="center">
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/olmo2/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=olmo2)
 
 </div>
 
